@@ -1,8 +1,5 @@
 Usage:
 ```css
-import /link/to/glitchcandy.css
-
-element {
-    color-modifier: var(--color);
-}
+import "https://raw.githubusercontent.com/GlitchyCrafting/glitchcandy-css/main/glitchcandy.css"
+/* See https://github.com/GlitchyCrafting/glitchcandy for color names */
 ```
